@@ -1,0 +1,4 @@
+Hello, 42!
+This is a test of get_next_line.
+Did it work?
+Yes!
